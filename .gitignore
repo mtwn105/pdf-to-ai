@@ -166,3 +166,5 @@ node_modules
 /backend/Loading complete
 
 # frontend static files
+
+/backend/uploads/

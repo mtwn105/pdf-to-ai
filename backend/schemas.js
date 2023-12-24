@@ -6,6 +6,10 @@ const pdf = new Schema({
     type: String,
     required: true,
   },
+  fileId: {
+    type: String,
+    required: true,
+  },
   fileUrl: {
     type: String,
     required: true,
